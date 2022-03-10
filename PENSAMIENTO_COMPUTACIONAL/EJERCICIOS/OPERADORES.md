@@ -22,11 +22,16 @@ Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
-
+si el trabajador tiene  45 anoñs  <  de 50 no trabajara  = que los otrosd empleados
+retardos >= 3  falta 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha.
-1) (45<120 OR 12<120) =
+1) (45<120 OR 12<120) 
+verdadero
 2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+falso
+4) ¬ (128<145 && 12>9) =
+vertdadero
+6) “Daniela”< >”DANIELA” =
+verdadera
+8) 10*20< >210 =
